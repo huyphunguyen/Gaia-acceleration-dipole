@@ -1,0 +1,55 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual environments
+myenv/
+venv/
+env/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Data files (keep only sources, not intermediate outputs)
+*.csv
+*.npy
+*.npz
+*.fits
+
+# Generated outputs
+output/
+sbi-logs/
+*.log
+*.pdf
+
+# OS
+.DS_Store
+*.db
+
+# Claude/Agent customization
+.claude/
