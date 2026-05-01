@@ -53,3 +53,4 @@ sbi-logs/
 
 # Claude/Agent customization
 .claude/
+.worktrees/
